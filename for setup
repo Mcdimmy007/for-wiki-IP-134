@@ -1,0 +1,7 @@
+echo "# for-wiki-IP-134" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:Mcdimmy007/for-wiki-IP-134.git
+git push -u origin main
